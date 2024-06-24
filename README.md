@@ -1,3 +1,5 @@
+## Classisification and RAG endpoints task
+
 To run this project, open a terminal and vavigate the project's root
 
 Run the following command to start the FastAPI application:
